@@ -24,7 +24,7 @@ js는 숫자형 변수를 저장하기 위해 8byte(64bit) 을 메모리에 할�
 
 프로그램은 시작하면서 메모리를 할당, 회수하게 되는데 자바스크립트에서는 Resident Set 이라는 곳에 저장하게 되고 각각 segement를 가지게 된다. 
 
-![image-20210923193953008](C:\Users\Moon\AppData\Roaming\Typora\typora-user-images\image-20210923193953008.png)
+![javascript-memory-structure](https://miro.medium.com/max/1584/0*SM_Ja0xN9q54Lpqf.png)
 
 1) Heap Segement
 
